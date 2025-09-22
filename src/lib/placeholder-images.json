@@ -1,0 +1,80 @@
+{
+  "team": {
+    "yehia": {
+      "src": "https://picsum.photos/seed/yehia/200/200",
+      "alt": "Yehia Mohammed, CEO & Founder of Upgrade",
+      "hint": "person portrait"
+    }
+  },
+  "testimonials": {
+    "ahmed": {
+      "src": "https://picsum.photos/seed/ahmed/100/100",
+      "alt": "Portrait of Ahmed Khaled",
+      "hint": "person portrait"
+    },
+    "fatima": {
+      "src": "https://picsum.photos/seed/fatima/100/100",
+      "alt": "Portrait of Fatima Ali",
+      "hint": "person portrait"
+    },
+    "omar": {
+      "src": "https://picsum.photos/seed/omar/100/100",
+      "alt": "Portrait of Omar Hassan",
+      "hint": "person portrait"
+    },
+    "laila": {
+      "src": "https://picsum.photos/seed/laila/100/100",
+      "alt": "Portrait of Laila Ibrahim",
+      "hint": "person portrait"
+    },
+    "youssef": {
+      "src": "https://picsum.photos/seed/youssef/100/100",
+      "alt": "Portrait of Youssef Adel",
+      "hint": "person portrait"
+    },
+    "nour": {
+      "src": "https://picsum.photos/seed/nour/100/100",
+      "alt": "Portrait of Nour Saleh",
+      "hint": "person portrait"
+    }
+  },
+  "courses": {
+    "graphicDesign": {
+      "src": "https://picsum.photos/seed/design/600/400",
+      "alt": "Abstract image representing graphic design",
+      "hint": "graphic design abstract"
+    },
+    "cs50": {
+      "src": "https://picsum.photos/seed/cs50/600/400",
+      "alt": "Abstract image representing computer science",
+      "hint": "computer science code"
+    },
+    "psychology": {
+      "src": "https://picsum.photos/seed/psychology/600/400",
+      "alt": "Abstract image representing psychology",
+      "hint": "psychology mind"
+    },
+    "english": {
+      "src": "https://picsum.photos/seed/english/600/400",
+      "alt": "Image of books and flags representing English language learning",
+      "hint": "language learning books"
+    },
+    "python": {
+      "src": "https://picsum.photos/seed/python/600/400",
+      "alt": "Python logo on a computer screen",
+      "hint": "python code"
+    },
+    "creativeWriting": {
+      "src": "https://picsum.photos/seed/writing/600/400",
+      "alt": "A person writing in a notebook",
+      "hint": "creative writing notebook"
+    }
+  },
+  "about": {
+    "vision": {
+      "src": "https://picsum.photos/seed/vision/600/400",
+      "alt": "A diverse group of people collaborating on a project",
+      "hint": "vision collaboration"
+    }
+  }
+}
