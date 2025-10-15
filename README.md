@@ -157,7 +157,3 @@ Ready to start your journey with us?
     🌐 [https://linktr.ee/UpgradesCommunity](https://linktr.ee/UpgradesCommunity)
 
 **We are the Upgraders, and this is just the beginning.**
-
-#Upgraders_Community
-#Our_Journey_Starts_Now
-#With_You_Till_The_End
